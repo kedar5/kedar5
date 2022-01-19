@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kedar5
-- 🏢 I'm currently studying at _CMU_
+- 🏢 I'm currently studying at _@CMU_
 - ⚙️ Languages I am well versed with: .py, .java, .sql, .html, .css
 - 📫 How to reach me www.linkedin.com/kedardeshpande5/
 
