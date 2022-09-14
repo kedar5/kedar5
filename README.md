@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @kedar5
-- 🏢 I'm currently studying at <a href="https://www.cmu.edu">_CMU_</a>, actively looking for summer 2022 internships
+- 🏢 I'm currently studying at <a href="https://www.cmu.edu">_CMU_</a>, actively looking for full time oppurtunites starting December 2022
 - ⚙️ Languages I am well versed with: <code>.py</code>, <code>.java</code>, <code>.sql</code>, <code>.html</code>, <code>.css</code>
 - 📫 You can reach me on <a href="https://www.linkedin.com/kedardeshpande5">LinkedIn</a>
 <hr>
